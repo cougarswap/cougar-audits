@@ -2,7 +2,7 @@
 CougarSwap Contracts Audits
 
 - [x] MythX
-- [ ] Techrate
+- [x] Techrate
 - [ ] Defiyield
 - [ ] Certik
 - [ ] Hacken
